@@ -1,0 +1,19 @@
+{
+  "name": "vulkan-tutorial",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "glfw3",
+    "glm",
+    {
+      "name": "ktx",
+      "features": [
+        "vulkan"
+      ]
+    },
+    "nlohmann-json",
+    "openal-soft",
+    "stb",
+    "tinygltf",
+    "tinyobjloader"
+  ]
+}

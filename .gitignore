@@ -32,3 +32,5 @@ attachments/simple_engine/android/gradlew
 attachments/simple_engine/android/gradlew.bat
 
 attachments/template/build/**
+/attachments/CMakeUserPresets.json
+/.vs
